@@ -1,5 +1,8 @@
 _repo: Rigby-s-reliable-candy-teacher-and-soda-and-ice-cream-formulas_74966
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74966-h/images/cover.jpg
 creator:
   author:
     agent_name: Rigby, W. O. (Will O.)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '57748'
     url: http://www.gutenberg.org/2009/agents/57748
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74966#Rigby-s-reliable-candy-teacher-and-soda-and-ice-cream-formulas
 edition_note: '[10th edition]'
 gutenberg_issued: '2024-12-22'
 gutenberg_type: Text
